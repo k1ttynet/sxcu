@@ -1,6 +1,6 @@
 <?php
 
-$domain = "domain.ext";
+$domain = "replacethiswithyourdoma.in";
 
 if($_SERVER['REQUEST_METHOD"] == "POST") {
   $screenshotFolder = "screenshots";
